@@ -13,10 +13,12 @@ This project demonstrates an automated security audit and system hardening imple
 
 ### 1. Initial Security Audit
 ![Initial Audit](images/initial_audit.png)
+
 *Figure 1: Baseline PowerShell audit script output identifying configuration gaps.*
 
 ### 2. Hardening Remediation Result
 ![Post Hardening](images/post_hardening.png)
+
 *Figure 2: Verified compliance showing active Account Lockout controls and hardened security posture.*
 
 ## Key Competencies Demonstrated
